@@ -6,6 +6,4 @@ color : #f00;
 h1, h2{
 	font-weight:900;
 }
-code::before{
-  color : red; 
-}
+code{color:#c7254e;background-color:#f9f2f4;border-radius:4px}
